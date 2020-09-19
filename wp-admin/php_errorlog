@@ -1,0 +1,13 @@
+[05-Aug-2020 10:13:55 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ingraine/public_html/learnline/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[05-Aug-2020 10:14:04 UTC] PHP Warning:  max(): Array must contain at least one element in /home/ingraine/public_html/learnline/wp-content/plugins/nicepage/importer/class-np-widgets-importer.php on line 333
+[06-Aug-2020 06:00:52 UTC] PHP Warning:  unlink(/home/ingraine/public_html/learnline/wp-content/uploads/nicepage-export/data/English2.pdf): No such file or directory in /home/ingraine/public_html/learnline/wp-admin/includes/file.php on line 885
+[13-Sep-2020 00:36:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ingraine/public_html/learnline/wp-content/plugins/ultimate-member/includes/admin/core/class-admin-navmenu.php on line 65
+[13-Sep-2020 01:01:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ingraine/public_html/learnline/wp-content/plugins/ultimate-member/includes/admin/core/class-admin-navmenu.php on line 65
+[13-Sep-2020 01:40:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ingraine/public_html/learnline/wp-content/plugins/ultimate-member/includes/admin/core/class-admin-navmenu.php on line 65
+[13-Sep-2020 01:43:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ingraine/public_html/learnline/wp-content/plugins/ultimate-member/includes/admin/core/class-admin-navmenu.php on line 65
+[13-Sep-2020 01:48:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ingraine/public_html/learnline/wp-content/plugins/ultimate-member/includes/admin/core/class-admin-navmenu.php on line 65
+[13-Sep-2020 01:59:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ingraine/public_html/learnline/wp-content/plugins/ultimate-member/includes/admin/core/class-admin-navmenu.php on line 65
+[13-Sep-2020 03:41:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ingraine/public_html/learnline/wp-content/plugins/ultimate-member/includes/admin/core/class-admin-navmenu.php on line 65
+[13-Sep-2020 03:44:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ingraine/public_html/learnline/wp-content/plugins/ultimate-member/includes/admin/core/class-admin-navmenu.php on line 65
+[14-Sep-2020 10:57:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ingraine/public_html/learnline/wp-content/plugins/ultimate-member/includes/admin/core/class-admin-navmenu.php on line 65
+[14-Sep-2020 11:00:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ingraine/public_html/learnline/wp-content/plugins/ultimate-member/includes/admin/core/class-admin-navmenu.php on line 65
